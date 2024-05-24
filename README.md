@@ -2,26 +2,32 @@
 
 **What it's About:**
 
-This repository provides a reimplementation of concepts learned from the PyTorch for Deep Learning & Machine Learning course (likely inspired by resources like [https://www.learnpytorch.io/](https://www.learnpytorch.io/) or similar tutorials). It offers a practical exploration of PyTorch functionalities through Jupyter Notebooks.
+This repository provides a reimplementation of concepts learned from the PyTorch for Deep Learning & Machine Learning course (likely inspired by resources like [David Bourke's 
+ Course - learnpytorch.io](https://www.learnpytorch.io/). 
+
+It offers a practical exploration of PyTorch functionalities through Notebooks.
+
+**You'll learn PyTorch fundamentals and proceed to advanced DL concepts, training neural nets... etc.**
 
 **Requirements:**
 
 - Python 3.x (check with `python --version` in your terminal)
 - PyTorch (installation instructions: [https://pytorch.org/get-started/locally/](https://pytorch.org/get-started/locally/))
-- Jupyter Notebook (installation instructions: [https://jupyter.org/install](https://jupyter.org/install))
+- NumPy
+- MatPlotLib
 
 **Usage:**
 
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/<your-username>/<your-repo-name>.git
+   git clone https://github.com/CYST084/_PyTorch-for-Deep-Learning---Machine-Learning.git
    ```
 
 2. **Navigate to the project directory:**
 
    ```bash
-   cd <your-repo-name>
+   cd _PyTorch-for-Deep-Learning---Machine-Learning
    ```
 
 3. **Launch Notebook:**
@@ -35,7 +41,7 @@ This repository provides a reimplementation of concepts learned from the PyTorch
 
 - Resources that inspired this project:
     - [https://www.learnpytorch.io/](https://www.learnpytorch.io/)
-    - [Daniel Bourke YouTube](https://youtu.be/Z_ikDlimN6A)
+    - [Daniel Bourke YouTube](https://youtu.be/Z_ikDlimN6A) or
     - [PyTorch for Deep Learning & Machine Learning – Full Course (freeCodeCamp.org)] (http://www.youtube.com/watch?v=V_xro1bcAuA)
 
 **License:**
