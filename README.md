@@ -35,6 +35,7 @@ This repository provides a reimplementation of concepts learned from the PyTorch
 
 - Resources that inspired this project:
     - [https://www.learnpytorch.io/](https://www.learnpytorch.io/)
+    - [Daniel Bourke YouTube](https://youtu.be/Z_ikDlimN6A)
     - [PyTorch for Deep Learning & Machine Learning – Full Course (freeCodeCamp.org)] (http://www.youtube.com/watch?v=V_xro1bcAuA)
 
 **License:**
