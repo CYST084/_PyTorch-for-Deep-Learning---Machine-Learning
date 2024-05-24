@@ -1,6 +1,6 @@
 ## PyTorch for Deep Learning & Machine Learning
 
-This repository contains a collection of Jupyter Notebooks implementing concepts and exercises *(mostly from PyTorch for Deep Learning course by Daniel Bourke)*. The notebooks offer a practical and interactive approach to mastering PyTorch for various deep learning tasks.
+This repository contains a collection of Jupyter Notebooks implementing concepts and exercises *(mostly from "PyTorch for Deep Learning" course by Daniel Bourke)*. The notebooks offer a practical and interactive approach to mastering PyTorch for various deep learning tasks.
 
 **Topics Covered:**
 
@@ -10,9 +10,6 @@ This repository contains a collection of Jupyter Notebooks implementing concepts
 - **Natural Language Processing (NLP):** Exploring recurrent neural networks (RNNs) and other NLP techniques
 - **Model Training and Evaluation:** Grasp the essentials of Optimizers, loss functions, training loops and evaluating model performance.
 - **Advanced Concepts:** Go beyond the basics with Transfer learning, model deployment, and more.. 
-
-- Neural network training
-- Advanced deep learning concepts
 
 **Requirements:**
 
@@ -42,7 +39,6 @@ This repository contains a collection of Jupyter Notebooks implementing concepts
 **To run the notebooks, double-click on each `.ipynb` file in your chosen environment.** 
 
 **References:**
-
 - Resources that inspired this project:
     - [https://www.learnpytorch.io/](https://www.learnpytorch.io)
     - [Daniel Bourke PyTorch YouTube Series](https://youtu.be/Z_ikDlimN6A) or
