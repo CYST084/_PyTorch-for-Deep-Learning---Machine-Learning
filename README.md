@@ -1,10 +1,16 @@
 ## PyTorch for Deep Learning & Machine Learning
 
-This repository provides a reimplementation of concepts from the PyTorch for Deep Learning & Machine Learning course. It offers a practical exploration of PyTorch functionalities through Notebooks.
+This repository contains a collection of Jupyter Notebooks implementing concepts and exercises *(mostly from PyTorch for Deep Learning course by Daniel Bourke)*. The notebooks offer a practical and interactive approach to mastering PyTorch for various deep learning tasks.
 
 **Topics Covered:**
 
-- PyTorch fundamentals
+- **PyTorch Fundamentals:** Dive into tensors, tensor operations, and automatic differentiation – the building blocks of deep learning with PyTorch.
+- **Neural Networks:** Building neural networks from scratch, understanding layers and activation functions
+- **Image Classification:** Working with convolutional neural networks (CNNs), the powerhouse behind image recognition, training your own image classifiers
+- **Natural Language Processing (NLP):** Exploring recurrent neural networks (RNNs) and other NLP techniques
+- **Model Training and Evaluation:** Grasp the essentials of Optimizers, loss functions, training loops and evaluating model performance.
+- **Advanced Concepts:** Go beyond the basics with Transfer learning, model deployment, and more.. 
+
 - Neural network training
 - Advanced deep learning concepts
 
@@ -24,31 +30,25 @@ This repository provides a reimplementation of concepts from the PyTorch for Dee
 3. Upload the contents of this repository to your Colab notebook for execution.
 
 **Usage:**
+**Choose Your Environment:**
 
-**Based on the development environment:**
+1. **Google Colab:** Upload the repository's contents to a new Colab notebook.
+2. **VS Code with Jupyter Notebook:** Clone the repository, open it in VS Code, and double-click on a `.ipynb` file to run.
+3. **Jupyter Notebook:** 
+   - Navigate to the repository's directory in your terminal.
+   - Run `jupyter notebook`. This will open the Jupyter Notebook interface in your browser. 
+   - Open and run the notebooks (`.ipynb` files).
 
-1. **Google Colab (Cloud-based):**
-   - Visit [https://colab.research.google.com](https://colab.research.google.com). This environment already includes necessary libraries.
-   - Upload the contents of this repository to your Colab notebook for execution.
-
-2. **VS Code with Jupyter Notebook:**
-   - Ensure you have Python 3 and the Jupyter extension installed in VS Code.
-   - Clone the repository and open the folder in VS Code.
-   - Double-click on each Jupyter Notebook (`.ipynb` file) to run them within VS Code.
-
-**Running the Notebooks:**
-
-- Regardless of your chosen environment (Colab or VS Code), navigate to the directory containing the notebooks.
-- Double-click on each notebook (`.ipynb` file) to execute them.
+**To run the notebooks, double-click on each `.ipynb` file in your chosen environment.** 
 
 **References:**
 
 - Resources that inspired this project:
-    - [https://www.learnpytorch.io/](https://www.learnpytorch.io/)
-    - [Daniel Bourke YouTube](https://youtu.be/Z_ikDlimN6A) or
+    - [https://www.learnpytorch.io/](https://www.learnpytorch.io)
+    - [Daniel Bourke PyTorch YouTube Series](https://youtu.be/Z_ikDlimN6A) or
     - [PyTorch for Deep Learning & Machine Learning – Full Course (freeCodeCamp.org)] (http://www.youtube.com/watch?v=V_xro1bcAuA)
 
 **License:**
 
-Fully open source
+- Fully open source
 MIT License (see LICENSE file)
