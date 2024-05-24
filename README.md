@@ -1,41 +1,45 @@
 ## PyTorch for Deep Learning & Machine Learning
 
-**What it's About:**
+This repository provides a reimplementation of concepts from the PyTorch for Deep Learning & Machine Learning course. It offers a practical exploration of PyTorch functionalities through Notebooks.
 
-This repository provides a reimplementation of concepts learned from the PyTorch for Deep Learning & Machine Learning course (likely inspired by resources like [David Bourke's 
- Course - learnpytorch.io](https://www.learnpytorch.io/). 
+**Topics Covered:**
 
-It offers a practical exploration of PyTorch functionalities through Notebooks.
-
-**You'll learn PyTorch fundamentals and proceed to advanced DL concepts, training neural nets... etc.**
+- PyTorch fundamentals
+- Neural network training
+- Advanced deep learning concepts
 
 **Requirements:**
 
-- Python 3.x (check with `python --version` in your terminal)
-- PyTorch (installation instructions: [https://pytorch.org/get-started/locally/](https://pytorch.org/get-started/locally/))
-- NumPy
-- MatPlotLib
+**Option 1: Local Machine Setup**
+
+* **Python 3.x:** Verify your version by running `python --version` in your terminal. If you don't have Python 3, download it from [https://www.python.org/downloads/](https://www.python.org/downloads/).
+* **PyTorch:** Follow the installation instructions: [https://pytorch.org/get-started/locally/](https://pytorch.org/get-started/locally/).
+* **NumPy:** Install NumPy using `pip install numpy` in your terminal.
+* **Matplotlib:** Install Matplotlib using `pip install matplotlib` in your terminal.
+
+**Option 2: Google Colab**
+
+1. Visit [https://colab.research.google.com](https://colab.research.google.com).
+2. This environment already includes Python, PyTorch, NumPy, and Matplotlib. No local installation is required.
+3. Upload the contents of this repository to your Colab notebook for execution.
 
 **Usage:**
 
-1. **Clone the repository:**
+**Based on the development environment:**
 
-   ```bash
-   git clone https://github.com/CYST084/_PyTorch-for-Deep-Learning---Machine-Learning.git
-   ```
+1. **Google Colab (Cloud-based):**
+   - Visit [https://colab.research.google.com](https://colab.research.google.com). This environment already includes necessary libraries.
+   - Upload the contents of this repository to your Colab notebook for execution.
 
-2. **Navigate to the project directory:**
+2. **VS Code with Jupyter Notebook:**
+   - Ensure you have Python 3 and the Jupyter extension installed in VS Code.
+   - Clone the repository and open the folder in VS Code.
+   - Double-click on each Jupyter Notebook (`.ipynb` file) to run them within VS Code.
 
-   ```bash
-   cd _PyTorch-for-Deep-Learning---Machine-Learning
-   ```
+**Running the Notebooks:**
 
-3. **Launch Notebook:**
-   - Jupyter notebooks, ipython kernels (eg in vs code), Google colab or Kaggle Notebooks will do just fine
-
-5. **Explore the notebooks:**
-
-   Navigate to the directory containing the notebooks and double-click on each one to run them.
+- Regardless of your chosen environment (Colab or VS Code), navigate to the directory containing the notebooks.
+- Double-click on each notebook (`.ipynb` file) to execute them.
 
 **References:**
 
@@ -46,4 +50,5 @@ It offers a practical exploration of PyTorch functionalities through Notebooks.
 
 **License:**
 
-This project is licensed under the MIT License (see LICENSE file for details). This allows for free use and modification for personal and commercial purposes.
+Fully open source
+MIT License (see LICENSE file)
