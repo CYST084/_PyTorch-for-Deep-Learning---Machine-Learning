@@ -38,13 +38,16 @@ This repository contains a collection of Jupyter Notebooks implementing concepts
 
 **To run the notebooks, double-click on each `.ipynb` file in your chosen environment.** 
 
+**Even better Option**
+Start new `.py` or `.ipynb` file in your code editoe or IDE and start coding, follow through with the tutorial, make some edits, tweak some values along the way, encounter some issues/bugs, resolve them and by the end you'll have developed an intution for the key concepts.
+
 **References:**
 - Resources that inspired this project:
     - [https://www.learnpytorch.io/](https://www.learnpytorch.io)
     - [Daniel Bourke PyTorch YouTube Series](https://youtu.be/Z_ikDlimN6A) or
     - [PyTorch for Deep Learning & Machine Learning – Full Course (freeCodeCamp.org)] (http://www.youtube.com/watch?v=V_xro1bcAuA)
+    - [Essence of Linear Algebra by 3blue1brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) 
 
 **License:**
 
-- Fully open source
-MIT License (see LICENSE file)
+- Fully open source (Experiment with it as you see fit)
