@@ -5,7 +5,9 @@ This repository contains a collection of Jupyter Notebooks implementing concepts
 **Topics Covered:**
 
 - **PyTorch Fundamentals:** Dive into tensors, tensor operations, and automatic differentiation – the building blocks of deep learning with PyTorch.
+     - [[Notebook 00](https://github.com/CYST084/_PyTorch-for-Deep-Learning---Machine-Learning/blob/main/00_pytorch_fundamentals.ipynb)
 - **Neural Networks:** Building neural networks from scratch, understanding layers and activation functions
+     - [Notebook 01](https://github.com/CYST084/_PyTorch-for-Deep-Learning---Machine-Learning/blob/main/01_pytorch_workflow.ipynb)
 - **Image Classification:** Working with convolutional neural networks (CNNs), the powerhouse behind image recognition, training your own image classifiers
 - **Natural Language Processing (NLP):** Exploring recurrent neural networks (RNNs) and other NLP techniques
 - **Model Training and Evaluation:** Grasp the essentials of Optimizers, loss functions, training loops and evaluating model performance.
